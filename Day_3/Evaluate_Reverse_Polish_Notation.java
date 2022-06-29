@@ -1,4 +1,3 @@
-import java.lang.String;
 class Solution {
     public int evalRPN(String[] tokens) {
         Stack<String> s=new Stack<>();
